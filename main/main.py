@@ -19,7 +19,7 @@
 # arrayCheck([1, 1, 2, 3, 1])  True
 # arrayCheck([1, 1, 2, 4, 1]) False
 # arrayCheck([1, 1, 2, 1, 2, 3])  True
-
+#another file goes here
 def arrayCheck(nums):
     correct_count = 0
     i = 0
